@@ -535,3 +535,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.21-01.14.00:947][  0]LogHMD: Failed to initialize OpenVR with code 110
 [2020.01.21-01.14.01:244][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.203 s
 [2020.01.21-01.14.02:343][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.21-01.14.05:351][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-01.14.06:599][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.21-01.14.06:599][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.21-01.14.06:599][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.21-01.14.06:599][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.21-01.14.06:599][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.21-01.14.06:599][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.21-01.14.06:599][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.21-01.14.06:631][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.21-01.14.06:655][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.21-01.14.06:656][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.21-01.14.06:696][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.21-01.14.06:696][  0]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.01.21-01.14.06:696][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.01.21-01.14.06:696][  0]LogAudioMixer: Display: Sample Rate: 44100
+[2020.01.21-01.14.06:696][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.21-01.14.06:696][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.21-01.14.06:696][  0]LogAudioMixer: Display: Channel Order:
+[2020.01.21-01.14.06:696][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.21-01.14.06:696][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.01.21-01.14.06:883][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.01.21-01.14.06:939][  0]LogInit: FAudioDevice initialized.
+[2020.01.21-01.14.06:970][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.21-01.14.07:079][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/pbrun/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.21-01.14.07:080][  0]LogInit: Texture streaming: Enabled
+[2020.01.21-01.14.07:786][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.21-01.14.07:825][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.21-01.14.07:863][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.21-01.14.09:147][  0]LogInit: Transaction tracking system initialized
+[2020.01.21-01.14.10:712][  0]BlueprintLog: New page: Editor Load
+[2020.01.21-01.14.14:750][  0]LocalizationService: Localization service is disabled
