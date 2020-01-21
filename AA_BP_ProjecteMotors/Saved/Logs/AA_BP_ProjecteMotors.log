@@ -530,3 +530,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.21-01.13.52:952][  0]LogOcInput: OculusInput pre-init called
 [2020.01.21-01.13.53:120][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
 [2020.01.21-01.13.53:120][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.21-01.14.00:185][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 5.46s
+[2020.01.21-01.14.00:622][  0]LogEngine: Initializing Engine...
+[2020.01.21-01.14.00:947][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.21-01.14.01:244][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.203 s
+[2020.01.21-01.14.02:343][  0]LogInit: Initializing FReadOnlyCVARCache
