@@ -603,3 +603,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.21-01.15.21:124][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
 [2020.01.21-01.15.23:719][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.01.21-01.15.24:937][  0]LogSlate: Took 0.233194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.21-01.15.26:645][  2]LogAssetRegistry: Asset discovery search completed in 186.0933 seconds
+[2020.01.21-01.15.26:713][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.001754 seconds (updated 0 objects)
