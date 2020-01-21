@@ -519,3 +519,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.21-01.13.31:695][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
 [2020.01.21-01.13.44:832][  0]LogTcpMessaging: Initializing TcpMessaging bridge
 [2020.01.21-01.13.44:919][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.21-01.13.47:061][  0]SourceControl: Source control is disabled
+[2020.01.21-01.13.47:070][  0]SourceControl: Source control is disabled
+[2020.01.21-01.13.47:420][  0]SourceControl: Source control is disabled
+[2020.01.21-01.13.47:449][  0]SourceControl: Source control is disabled
+[2020.01.21-01.13.47:481][  0]SourceControl: Source control is disabled
+[2020.01.21-01.13.51:253][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.21-01.13.51:670][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.21-01.13.51:670][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.21-01.13.52:952][  0]LogOcInput: OculusInput pre-init called
+[2020.01.21-01.13.53:120][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.21-01.13.53:120][  0]LogWindows: File 'OVRPlugin.dll' does not exist
