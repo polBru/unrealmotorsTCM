@@ -566,3 +566,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.21-01.14.09:147][  0]LogInit: Transaction tracking system initialized
 [2020.01.21-01.14.10:712][  0]BlueprintLog: New page: Editor Load
 [2020.01.21-01.14.14:750][  0]LocalizationService: Localization service is disabled
+[2020.01.21-01.14.20:449][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pbrun/OneDrive/Documents/GitHub/unrealmotorsTCM/AA_BP_ProjecteMotors/Content/' took 0.07s
+[2020.01.21-01.14.20:450][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.21-01.14.20:450][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.21-01.14.30:073][  0]SourceControl: Source control is disabled
+[2020.01.21-01.14.30:373][  0]Cmd: MAP LOAD FILE="C:/Users/pbrun/OneDrive/Documents/GitHub/unrealmotorsTCM/AA_BP_ProjecteMotors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.21-01.14.30:531][  0]LightingResults: New page: Lighting Build
+[2020.01.21-01.14.31:221][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.21-01.14.31:396][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.21-01.14.31:608][  0]MapCheck: New page: Map Check
+[2020.01.21-01.14.31:608][  0]LightingResults: New page: Lighting Build
+[2020.01.21-01.14.33:817][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.01.21-01.14.41:269][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.21-01.14.44:994][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.21-01.14.45:973][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.01.21-01.14.46:046][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.21-01.14.46:082][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35.898ms to complete.
+[2020.01.21-01.14.46:091][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 15.996
+[2020.01.21-01.14.55:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-01.14.55:542][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-01.14.55:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-01.14.55:560][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-01.14.55:936][  0]LogCollectionManager: Loaded 0 collections in 0.002135 seconds
+[2020.01.21-01.14.56:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pbrun/OneDrive/Documents/GitHub/unrealmotorsTCM/AA_BP_ProjecteMotors/Saved/Collections/' took 0.00s
+[2020.01.21-01.14.56:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pbrun/OneDrive/Documents/GitHub/unrealmotorsTCM/AA_BP_ProjecteMotors/Content/Developers/pbrun/Collections/' took 0.00s
+[2020.01.21-01.14.56:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pbrun/OneDrive/Documents/GitHub/unrealmotorsTCM/AA_BP_ProjecteMotors/Content/Collections/' took 0.00s
+[2020.01.21-01.14.56:662][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 3017 classes and 720 folders.
+[2020.01.21-01.14.57:044][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.21-01.14.59:062][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.21-01.15.12:807][  0]LogSlate: Took 0.025770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.21-01.15.13:443][  0]LogSlate: Took 0.079897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.21-01.15.13:497][  0]LogSlate: Took 0.011183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.21-01.15.16:371][  0]LogRenderer: Reallocating scene render targets to support 888x352 Format 10 NumSamples 1 (Frame:1).
+[2020.01.21-01.15.21:123][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.21-01.15.21:124][  0]LogLoad: (Engine Initialization) Total time: 252.67 seconds
+[2020.01.21-01.15.21:124][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.21-01.15.23:719][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.21-01.15.24:937][  0]LogSlate: Took 0.233194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
