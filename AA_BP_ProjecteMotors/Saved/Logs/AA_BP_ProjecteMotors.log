@@ -513,3 +513,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.21-01.12.48:045][  0]LogMeshReduction: No distributed automatic mesh merging module available
 [2020.01.21-01.12.48:045][  0]LogMeshMerging: No distributed automatic mesh merging module available
 [2020.01.21-01.12.50:171][  0]LogNetVersion: AA_BP_ProjecteMotors 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1737032004)
+[2020.01.21-01.13.31:557][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.154097 seconds
+[2020.01.21-01.13.31:695][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.01.21-01.13.31:695][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.01.21-01.13.31:695][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.21-01.13.44:832][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.21-01.13.44:919][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
