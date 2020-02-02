@@ -762,3 +762,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-23.13.22:325][110]LogContentValidation: Display: Validating StaticMesh /Game/Models/Buildings/building.building
 [2020.02.02-23.13.47:325][260]Cmd: SELECT NONE
 [2020.02.02-23.13.51:059][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.02.02-23.15.03:303][918]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.02-23.15.03:376][918]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.02-23.15.03:416][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.02.02-23.15.03:418][918]Cmd: MAP LOAD FILE="C:/Users/pbrun/OneDrive/Documents/GitHub/unrealmotorsTCM/AA_BP_ProjecteMotors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-23.15.03:418][918]LightingResults: New page: Lighting Build
+[2020.02.02-23.15.03:418][918]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.02.02-23.15.03:429][918]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-23.15.03:429][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-23.15.03:430][918]MapCheck: New page: Map Check
+[2020.02.02-23.15.03:430][918]LightingResults: New page: Lighting Build
+[2020.02.02-23.15.03:486][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.02.02-23.15.03:711][918]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-23.15.03:749][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.02-23.15.03:763][918]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-23.15.03:764][918]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2020.02.02-23.15.03:764][918]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.346
+[2020.02.02-23.15.09:967][247]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2020.02.02-23.15.16:088][534]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-23.15.16:088][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-23.15.21:866][843]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall9)
+[2020.02.02-23.15.22:547][853]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
